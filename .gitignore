@@ -10,3 +10,16 @@ notebooks/lstm/train-labels-idx1-ubyte.gz
 notebooks/lstm/traindata.txt
 notebooks/lstm/valdata.txt
 notebooks/lstm2/
+notebooks/classification/.ipynb_checkpoints/
+notebooks/classification/best_model.pkl
+notebooks/classification/conv_lr-0.01_arch-50-50_bs-64_seed-1.log
+notebooks/classification/mlp_lr-0.01_arch-50-50_bs-64_seed-1.log
+notebooks/classification/t10k-images-idx3-ubyte.gz
+notebooks/classification/t10k-labels-idx1-ubyte.gz
+notebooks/classification/train-images-idx3-ubyte.gz
+notebooks/classification/train-labels-idx1-ubyte.gz
+notebooks/intro_theano.ipynb
+notebooks/recurrent/
+notebooks/testing.log
+notebooks/theano_basics/.ipynb_checkpoints/
+
