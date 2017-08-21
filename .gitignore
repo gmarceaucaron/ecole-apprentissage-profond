@@ -1,0 +1,12 @@
+notebooks/.ipynb_checkpoints/
+notebooks/lstm/.ipynb_checkpoints/
+notebooks/lstm/Untitled.ipynb
+notebooks/lstm/dictionary.pkl
+notebooks/lstm/lstm_text.ipynb
+notebooks/lstm/t10k-images-idx3-ubyte.gz
+notebooks/lstm/t10k-labels-idx1-ubyte.gz
+notebooks/lstm/train-images-idx3-ubyte.gz
+notebooks/lstm/train-labels-idx1-ubyte.gz
+notebooks/lstm/traindata.txt
+notebooks/lstm/valdata.txt
+notebooks/lstm2/
