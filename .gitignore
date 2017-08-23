@@ -22,4 +22,9 @@ notebooks/intro_theano.ipynb
 notebooks/recurrent/
 notebooks/testing.log
 notebooks/theano_basics/.ipynb_checkpoints/
+scripts/Lasagne/__pycache__/
+scripts/Lasagne/t10k-images-idx3-ubyte.gz
+scripts/Lasagne/t10k-labels-idx1-ubyte.gz
+scripts/Lasagne/train-images-idx3-ubyte.gz
+scripts/Lasagne/train-labels-idx1-ubyte.gz
 
