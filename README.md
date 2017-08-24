@@ -1,7 +1,7 @@
 # École d’été
 
-Ce dépôt de code contient les exemples jupyter (dossier notebooks) présentés lors de l’école d’été en apprentissage profond de l’Université de Montréal organisé par IVADO et le MILA.
-De plus, il contient des exemples de scripts pour l’entraînement de nombreux modèles (dossier scripts).
+Ce dépôt de code contient les exemples Jupyter (dossier notebooks) présentés lors de l’école d’été en apprentissage profond de l’Université de Montréal organisée par IVADO et le MILA.
+De plus, il contient des exemples de scripts pour l’entraînement de nombreux modèles.
 Les dépendances requises pour exécuter ces différents programmes sont
 
 - Lasagne
@@ -18,3 +18,5 @@ Les scripts sont grandement inspirés de [tutoriels de Lasagne](http://lasagne.r
 - Le [cours sur les réseaux de convolution de Andrej Karpathy](http://cs231n.github.io/)
 - Le [cours en ligne de Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 - Le dernier [rapport technique de Theano](https://arxiv.org/abs/1605.02688)
+- Le [cours de Hugo Larochelle](https://www.youtube.com/user/hugolarochelle)
+- Les [articles de recherche du MILA](https://mila.umontreal.ca/en/publications/)
