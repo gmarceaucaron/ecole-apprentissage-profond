@@ -10,7 +10,7 @@ Les dépendances requises pour exécuter ces différents programmes sont
 Les scripts sont grandement inspirés de [tutoriels de Lasagne](http://lasagne.readthedocs.io/en/latest/index.html) et de [tutoriels de Theano](http://deeplearning.net/tutorial/).
 
 # Ressources additionnelles
-- Le [livre en Deep Learning](http://www.deeplearningbook.org/) par Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- Le [livre en Deep Learning](http://www.deeplearningbook.org/) par Ian Goodfellow, Yoshua Bengio et Aaron Courville
 - La [bibliothèque de graphe computationnel Theano](http://deeplearning.net/software/theano/)
 - Les [tutoriaux de Theano](http://deeplearning.net/tutorial/) 
 - Le [front-end Deep Learning de Theano Lasagne](https://lasagne.readthedocs.io/en/latest/)
