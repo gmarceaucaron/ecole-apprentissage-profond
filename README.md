@@ -20,3 +20,7 @@ Les scripts sont grandement inspirés de [tutoriels de Lasagne](http://lasagne.r
 - Le dernier [rapport technique de Theano](https://arxiv.org/abs/1605.02688)
 - Le [cours de Hugo Larochelle](https://www.youtube.com/user/hugolarochelle)
 - Les [articles de recherche du MILA](https://mila.umontreal.ca/en/publications/)
+- Les [tutoriaux de Ian Goodfellow](https://github.com/goodfeli/theano_exercises)
+- [L'algorithme de Fastext](https://github.com/facebookresearch/fastText) et les [embeddings](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+- [Tutoriaux de Christipher Olah](http://colah.github.io/)
+- [Cours Deep Learning de Oxford](https://github.com/oxford-cs-deepnlp-2017)
